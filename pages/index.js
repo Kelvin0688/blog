@@ -24,6 +24,7 @@ export default function Home({ posts }) {
           <div className="lg:sticky relative top-8">
             <PostWidgets />
             <Categories />
+            
           </div>
         </div>
    
